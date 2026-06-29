@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/poojaa95/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/poojaa95/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/poojaa95/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
