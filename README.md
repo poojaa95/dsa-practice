@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poojaa95/dsa-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poojaa95/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poojaa95/dsa-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/poojaa95/dsa-practice/tree/master/0070-climbing-stairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poojaa95/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poojaa95/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
