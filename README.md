@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poojaa95/dsa-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/poojaa95/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
