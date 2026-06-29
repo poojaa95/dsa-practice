@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/poojaa95/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/poojaa95/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/poojaa95/dsa-practice/tree/master/1672-richest-customer-wealth) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
