@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/poojaa95/dsa-practice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/poojaa95/dsa-practice/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/poojaa95/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
