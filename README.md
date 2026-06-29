@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/poojaa95/dsa-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
