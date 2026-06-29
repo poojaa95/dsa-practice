@@ -15,5 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poojaa95/dsa-practice/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
