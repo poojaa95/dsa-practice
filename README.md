@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/poojaa95/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/poojaa95/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/poojaa95/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/poojaa95/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
