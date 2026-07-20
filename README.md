@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojaa95/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojaa95/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojaa95/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poojaa95/dsa-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/poojaa95/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojaa95/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojaa95/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/poojaa95/dsa-practice/tree/master/3794-reverse-string-prefix) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/poojaa95/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/poojaa95/dsa-practice/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/poojaa95/dsa-practice/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
