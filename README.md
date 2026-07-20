@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/poojaa95/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/poojaa95/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/poojaa95/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/poojaa95/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/poojaa95/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
