@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/poojaa95/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3794-reverse-string-prefix](https://github.com/poojaa95/dsa-practice/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
