@@ -1,7 +1,6 @@
 class Solution(object):
     def sortedSquares(self, nums):
         l=[]
-        nums.sort()
         for i in nums:
             l.append(i**2)
         l.sort()
