@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/poojaa95/dsa-practice/tree/master/1672-richest-customer-wealth) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/poojaa95/dsa-practice/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
