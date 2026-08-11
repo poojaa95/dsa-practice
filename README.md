@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/poojaa95/dsa-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojaa95/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/poojaa95/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojaa95/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/poojaa95/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
