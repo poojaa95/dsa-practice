@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/poojaa95/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/poojaa95/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/poojaa95/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/poojaa95/dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/poojaa95/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/poojaa95/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/poojaa95/dsa-practice/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/poojaa95/dsa-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/poojaa95/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/poojaa95/dsa-practice/tree/master/0227-basic-calculator-ii) |
+| [1512-number-of-good-pairs](https://github.com/poojaa95/dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/poojaa95/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poojaa95/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/poojaa95/dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/poojaa95/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/poojaa95/dsa-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/poojaa95/dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Timsort
 |  |
