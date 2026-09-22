@@ -9,6 +9,7 @@ class Solution(object):
     #    for i in range(len(l)):
     #         nums[i]=l[i]
     #    return len(l)
+
         left=0
         right=len(nums)-1
         while left<=right:
