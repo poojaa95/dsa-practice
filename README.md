@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojaa95/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/poojaa95/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/poojaa95/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/poojaa95/dsa-practice/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/poojaa95/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/poojaa95/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/poojaa95/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/poojaa95/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/poojaa95/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/poojaa95/dsa-practice/tree/master/0227-basic-calculator-ii) |
+| [0844-backspace-string-compare](https://github.com/poojaa95/dsa-practice/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
