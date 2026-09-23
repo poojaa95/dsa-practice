@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojaa95/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/poojaa95/dsa-practice/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/poojaa95/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/poojaa95/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojaa95/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/poojaa95/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/poojaa95/dsa-practice/tree/master/3794-reverse-string-prefix) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojaa95/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/poojaa95/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
