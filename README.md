@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/poojaa95/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/poojaa95/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/poojaa95/dsa-practice/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/poojaa95/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/poojaa95/dsa-practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/poojaa95/dsa-practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/poojaa95/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojaa95/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/poojaa95/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/poojaa95/dsa-practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/poojaa95/dsa-practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/poojaa95/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poojaa95/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/poojaa95/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/poojaa95/dsa-practice/tree/master/0242-valid-anagram) |
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/poojaa95/dsa-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/poojaa95/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
