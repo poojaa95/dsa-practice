@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/poojaa95/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/poojaa95/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/poojaa95/dsa-practice/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/poojaa95/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/poojaa95/dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojaa95/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/poojaa95/dsa-practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojaa95/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/poojaa95/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/poojaa95/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/poojaa95/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
